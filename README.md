@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next.js
 - 📫 Reach me on: miti.desai@student.csulb.edu
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: Passionate for Painting
+- ⚡ Fun fact: I love painting so much that if you stand still long enough, you might become my next masterpiece!
 
 <!---
 MiD200998/MiD200998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
