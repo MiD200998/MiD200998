@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MitiD
-- 👀 I’m interested in Data Analytics, Web Development, Full Stack Dev, Business Intelligence, Machine Learning
+- 👀 I’m interested in Data Analytics, Business Intelligence, Machine Learning, Web Development, Full Stack Dev
 - 🌱 I’m currently learning Next.js
 - 📫 Reach me on: miti.desai@student.csulb.edu
 - 😄 Pronouns: She/Her/Hers
