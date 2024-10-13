@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MitiD
+- 👋 Hi, I’m Miti
 - 👀 I’m interested in Data Analytics, Business Intelligence, Machine Learning, Web Development, Full Stack Dev
 - 🌱 I’m currently learning Next.js
 - 📫 Reach me on: miti.desai@student.csulb.edu
