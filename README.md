@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miti
 - 👀 I’m interested in Data Analytics, Business Intelligence, Machine Learning, Web Development, Full Stack Dev
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning R & Next.js
 - 📫 Reach me on: mitidesai20@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love painting so much that if you stand still long enough, you might become my next masterpiece!
