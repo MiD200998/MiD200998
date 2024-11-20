@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miti
-- 👀 I’m interested in Data Analytics, Business Intelligence, Machine Learning, Web Development, Full Stack Dev
+- 👀 I’m interested in Data Analytics, Business Intelligence, Machine Learning, NLP, Web Development, Full Stack Dev
 - 🌱 I’m currently learning R & Next.js
 - 📫 Reach me on: mitidesai20@gmail.com
 - 😄 Pronouns: She/Her/Hers
